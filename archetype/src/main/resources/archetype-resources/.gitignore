@@ -8,9 +8,3 @@
 # IDE
 *.iml
 .idea
-
-# Maven
-target
-
-# OS X
-.DS_Store
