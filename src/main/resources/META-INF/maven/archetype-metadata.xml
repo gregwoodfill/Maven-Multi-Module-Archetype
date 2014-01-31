@@ -43,7 +43,7 @@
     </fileSet>
   </fileSets>
   <modules>
-    <module id="myApp-module1" dir="myApp-module1" name="myApp-module1">
+    <module id="${rootArtifactId}-module1" dir="__rootArtifactId__-module1" name="${rootArtifactId}-module1">
       <fileSets>
         <fileSet filtered="true" packaged="true" encoding="UTF-8">
           <directory>src/main/java</directory>
