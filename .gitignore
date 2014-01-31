@@ -11,6 +11,8 @@
 
 # Maven
 target
+**/*.swp
 
 # OS X
 .DS_Store
+
